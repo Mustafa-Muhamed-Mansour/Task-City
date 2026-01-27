@@ -1,9 +1,8 @@
 # Table of content
 1. [TaskCity](#taskcity)
 2. [Screenshots](#screenshots)
-3. [Structure Project](#structure-project)
-4. [Build With](#build-with)
-5. [Demo Video](#demo-video)
+3. [Build With](#build-with)
+4. [Demo Video](#demo-video)
 
 
 # TaskCity
