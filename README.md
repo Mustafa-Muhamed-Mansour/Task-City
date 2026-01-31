@@ -16,18 +16,18 @@ The app is composed of one screen, which lists all of the cities and districts.
 ## 🧐Testing
 ### Success testing
 
-  #### for Repository
+  #### for repository
 <img src = "https://github.com/user-attachments/assets/8ab6d1d2-79a6-428b-84f2-ce3eda0860de" width = "400" height = "600">
 
-  #### for ViewModel
+  #### for viewModel
 <img src = "https://github.com/user-attachments/assets/ff367b64-ab2b-4cfa-b3a5-ffc8aaf81e8e" width = "400" height = "600">
 
 ### Failure testing
 
-  #### for Repository
+  #### for repository
 <img src = "https://github.com/user-attachments/assets/7b4abf0a-6191-4f6c-9223-8fc7af47d132" width = "400" height = "600"> 
 
-  #### for ViewModel
+  #### for viewModel
 <img src = "https://github.com/user-attachments/assets/e8d2e871-f306-40b8-9886-3d9e39f5f6c0" width = "400" height = "600">
 
 
