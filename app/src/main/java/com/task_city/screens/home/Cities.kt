@@ -46,7 +46,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import com.task_city.response.DistrictModel
+import com.task_city.entity.DistrictModel
 import com.task_city.utils.Constant.ID
 import com.task_city.view_model.CitiesViewModel
 

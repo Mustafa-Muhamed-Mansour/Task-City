@@ -2,6 +2,7 @@ package com.task_city.response
 
 
 import com.google.gson.annotations.SerializedName
+import com.task_city.entity.DistrictModel
 
 data class DataCitiesResponse(
     @SerializedName("cityCode")

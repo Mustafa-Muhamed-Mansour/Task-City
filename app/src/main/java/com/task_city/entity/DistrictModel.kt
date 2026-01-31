@@ -1,5 +1,4 @@
-package com.task_city.response
-
+package com.task_city.entity
 
 import com.google.gson.annotations.SerializedName
 

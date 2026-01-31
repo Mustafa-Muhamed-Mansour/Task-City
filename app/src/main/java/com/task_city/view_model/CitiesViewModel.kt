@@ -21,12 +21,7 @@ class CitiesViewModel @Inject constructor(
 
     fun fetchAllCities(countryID: String) = viewModelScope.launch {
         try {
-            _uiState.update {
-                it.copy(
-                    isLoading = true,
-                    error = ""
-                )
-            }
+            _uiState.update { it.copy(isLoading = true, error = "") }
             val response = citiesRepository.getCities(countryID = countryID)
             response.fold(
                 onSuccess = { data ->
