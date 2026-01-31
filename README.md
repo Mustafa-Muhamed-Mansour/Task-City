@@ -13,6 +13,12 @@ The app is composed of one screen, which lists all of the cities and districts.
 ## 📱Mobile
 <img src = "https://github.com/user-attachments/assets/45a51db4-5f3a-4f81-98ac-661f9a532387" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/c7582253-73b3-4a0f-92b7-a04a274b9094" width = "200" height = "400">  <img src = "https://github.com/user-attachments/assets/e67045f2-8d24-4d30-b279-6328cb740802" width = "200" height = "400">
 
+## 🧐Testing
+### Success test for Repository & ViewModel
+<img src = "https://github.com/user-attachments/assets/8ab6d1d2-79a6-428b-84f2-ce3eda0860de" width = "400" height = "600"> <img src = "https://github.com/user-attachments/assets/ff367b64-ab2b-4cfa-b3a5-ffc8aaf81e8e" width = "400" height = "600">
+
+### Failure test for Repository & ViewModel
+<img src = "https://github.com/user-attachments/assets/7b4abf0a-6191-4f6c-9223-8fc7af47d132" width = "400" height = "600"> <img src = "https://github.com/user-attachments/assets/e8d2e871-f306-40b8-9886-3d9e39f5f6c0" width = "400" height = "600">
 
 
 # Build with
